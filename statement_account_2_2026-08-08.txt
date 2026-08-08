@@ -1,0 +1,30 @@
+=====================================================
+      BUDGETBUDDY FINANCIAL MANAGEMENT SYSTEM        
+        MONTHLY FINANCIAL SUMMARY STATEMENT          
+-----------------------------------------------------
+STATEMENT DATE: 2026-08-08   TIME: 17:48:49
+ACCOUNT ID: #0002            STATUS: VERIFIED
+-----------------------------------------------------
+
+I. REVENUE ANALYSIS
+   Target Goal .................... ₱    1,500.00
+   Actual Earned .................. ₱    5,500.00
+
+II. OPERATING EXPENDITURES
+   Target Cap ..................... ₱      300.00
+   Actual Spent ................... ₱      200.00
+
+III. RECURRING OBLIGATIONS
+   Target Allocation .............. ₱      400.00
+   Actual Paid .................... ₱    3,500.00
+-----------------------------------------------------
+
+IV. CASH FLOW OVERVIEW
+   Planned Net Cash Flow .......... ₱      800.00
+   Actual Net Reserve ............. ₱    1,800.00
+=====================================================
+VARIANCE ANALYSIS: +₱1,000.00 (SURPLUS)
+=====================================================
+REFERENCE CODE: REF-BB-20260808-2
+OFFICIAL ACCOUNT STATEMENT — CONFIDENTIAL
+=====================================================

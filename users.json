@@ -1,9 +1,14 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "username": "user",
-            "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
-        }
-    ]
+    "1": {
+        "username": "user",
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+    },
+    "2": {
+        "username": "clarisse",
+        "password": "12345678"
+    },
+    "3": {
+        "username": "hilary",
+        "password": "55555"
+    }
 }
